@@ -23,11 +23,11 @@ const galaxymodz = {
             native: ["Android Dev", "iOS Dev"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MongoDB", "MySQL", "SQLite,],
+        databases: ["MongoDB", "MySQL", "SQLite",],
         misc: ["Selenium", "PHP"]
     },
     architecture: ["Websites", "2D Games", "Discord Bots", "Cool Minecraft Plugins/Mods"],
-    currentFocus: ["Game Development", Minecraft Mod/Plugin Dev Dev]
+    currentFocus: ["Game Development", "Minecraft Mod/Plugin Dev Dev"]
     funFact: "I like cookies :3"
 };
 ```
