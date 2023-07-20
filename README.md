@@ -39,7 +39,9 @@ const galaxymodz = {
 ## Where To Find Me -
 
 [GitHub](https://github.com/GalaxyModzYT)
+
 [Discord](https://discord.gg/pj75Emch8p)
+
 [Twitter](https://twitter.com/GalaxyModz4)
 
 ## Skills -
