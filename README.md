@@ -4,7 +4,7 @@
 
 ## Info -
 
-Hiii :3, I'm **Galaxy Modz**, a Developer that makes alot of things.
+Hiii :3, I'm **Galaxy Modz**, a Developer that makes a lot of things.
 
 ```javascript
 const galaxymodz = {
