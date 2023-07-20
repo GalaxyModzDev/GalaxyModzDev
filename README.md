@@ -79,4 +79,4 @@ const galaxymodz = {
 
 ## Stats -
 
-! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxymodzyt&layout=compact)
+! [Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxymodzyt&layout=compact)
