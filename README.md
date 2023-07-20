@@ -9,7 +9,7 @@ Hiii :3, I'm **Galaxy Modz**, a Developer that makes a lot of things.
 ```javascript
 const galaxymodz = {
     pronouns: "he" | "Him",
-    code: ["Javascript", "Kotlin", "Python", "Java", "PHP", "Go", "HTML", "CSS", "SCSS"],
+    code: ["C#", "Javascript", "Kotlin", "Python", "Java","Rust", "PHP", "Go", "HTML", "CSS", "SCSS"],
     askMeAbout: ["Web Dev", "Tech", "Game Dev", "Discord Bot Dev", "Minecraft Mod/Plugin Dev"],
     technologies: {
         backEnd: {
