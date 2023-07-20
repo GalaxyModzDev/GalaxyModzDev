@@ -23,7 +23,7 @@ const galaxymodz = {
             native: ["Android Dev", "iOS Dev"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySQL", "SQLite,],
+        databases: ["MongoDB", "MySQL", "SQLite,],
         misc: ["Selenium", "PHP"]
     },
     architecture: ["Websites", "2D Games", "Discord Bots", "Cool Minecraft Plugins/Mods"],
