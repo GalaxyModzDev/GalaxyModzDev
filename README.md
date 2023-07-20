@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/japandotorg/japandotorg/blob/main/dmcb.gif" />
+    <img src="https://github.com/GalaxyModzYT/GalaxyModzYT/blob/main/MenheraChanChibiGIF.gif" />
 </p>
 
 ## Info -
