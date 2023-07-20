@@ -32,7 +32,7 @@ const galaxymodz = {
 };
 ```
 
-- :computer: My main languages are : [Java](https://www.oracle.com/in/java/technologies/javase-downloads.html), [Node.js](https://nodejs.org/en/) and [Python](https://www.python.org)
+- :computer: My main languages are : [Java](https://www.oracle.com/in/java/technologies/javase-downloads.html), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), and [Python](https://www.python.org)
 - :school: I'm currently learning : [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [Rust](https://rust-lang.org), [Kotlin](https://kotlinlang.org), and [Go](https://go.dev)
 - :dart: Fun fact: I'm working on a Minecraft Plugin called GalaxyCore, it's meant to be an AIO (all-in-one) plugin.
 
