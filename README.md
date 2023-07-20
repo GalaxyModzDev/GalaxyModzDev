@@ -38,9 +38,9 @@ const galaxymodz = {
 
 ## Where To Find Me -
 
-[Github](https://github.com/GalaxyModzYT)
-[Discord Server](https://discord.gg/pj75Emch8p)
-[Twitter](https://github.com/GalaxyModzYT)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)[https://github.com/GalaxyModzYT]
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)[https://discord.gg/pj75Emch8p]
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)[https://twitter.com/GalaxyModz4]
 
 ## Skills -
 
