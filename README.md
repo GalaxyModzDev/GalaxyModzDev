@@ -31,7 +31,7 @@ const galaxymodz = {
     funFact: "I like cookies :3"
 };
 ```
-[https://ko-fi.com/galaxymodz]
+(https://ko-fi.com/galaxymodz)
 
 
 - :computer: My main languages are : [Java](https://www.oracle.com/in/java/technologies/javase-downloads.html), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), and [Python](https://www.python.org)
