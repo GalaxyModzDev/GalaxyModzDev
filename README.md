@@ -9,7 +9,7 @@ Hiii :3, I'm **Galaxy Modz**, a Developer that makes a lot of things.
 ```javascript
 const galaxymodz = {
     pronouns: "He" | "Him",
-    code: ["C#", "Javascript", "Kotlin", "Python", "Java","Rust", "PHP", "Go", "HTML", "CSS", "SCSS"],
+    code: ["C#", "Javascript", "Kotlin", "Python", "Java","Rust", "Go", "HTML", "CSS", "SCSS"],
     askMeAbout: ["Web Dev", "Tech", "Game Dev", "Discord Bot Dev", "Minecraft Mod/Plugin Dev"],
     technologies: {
         backEnd: {
@@ -23,11 +23,11 @@ const galaxymodz = {
             native: ["Android Dev", "iOS Dev"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MongoDB", "MySQL", "SQLite",],
-        misc: ["Selenium", "PHP"]
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Selenium"]
     },
     architecture: ["Websites", "2D Games", "Discord Bots", "Cool Minecraft Plugins/Mods"],
-    currentFocus: ["Game Development", "Minecraft Mod/Plugin Dev Dev"]
+    currentFocus: ["Full-stack", "Game Development", "Minecraft Mod/Plugin Dev Dev"]
     funFact: "I like cookies :3"
 };
 ```
