@@ -23,7 +23,7 @@ I like cookies :3
 
 [Discord](https://discord.gg/pj75Emch8p)
 
-[Twitter](https://twitter.com/GalaxyModz4)
+[Twitter](https://twitter.com/GalaxyModzYT)
 
 ## Skills -
 
