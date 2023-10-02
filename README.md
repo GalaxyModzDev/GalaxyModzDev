@@ -6,31 +6,7 @@
 
 Hiii :3, I'm **Galaxy Modz**, a Developer that makes a lot of things.
 
-```javascript
-const galaxymodz = {
-    pronouns: "He" | "Him",
-    code: ["C#", "Javascript", "Kotlin", "Python", "Java","Rust", "Go", "HTML", "CSS", "SCSS"],
-    askMeAbout: ["Web Dev", "Tech", "Game Dev", "Discord Bot Dev", "Minecraft Mod/Plugin Dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node.js"],
-        },
-        frontEnd: {
-            js: ["Vue.js", "Next.js"],
-            css: ["bootstrap"]
-        },
-        mobileApp: {
-            native: ["Android Dev", "iOS Dev"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        misc: ["Selenium"]
-    },
-    architecture: ["Websites", "2D Games", "Discord Bots", "Cool Minecraft Plugins/Mods"],
-    currentFocus: ["Full-stack", "Game Development", "Minecraft Mod/Plugin Dev Dev"]
-    funFact: "I like cookies :3"
-};
-```
+I like cookies :3
 [![My Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/galaxymodz)
 
 
