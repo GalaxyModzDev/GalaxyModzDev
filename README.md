@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/GalaxyModzYT/GalaxyModzYT/blob/main/MenheraChanChibiGIF.gif" />
+    <img src="https://avatars.githubusercontent.com/u/66964223?s=400&u=02102b541f0cfcb8a34d1c34af77a25203ab009c&v=4" />
 </p>
 
 ## Info -
