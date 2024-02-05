@@ -13,8 +13,7 @@ I like cookies :3
 [![My Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/galaxymodz)
 
 
-- 💻 My main languages are : [Java](https://www.oracle.com/in/java/technologies/javase-downloads.html), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), and [Python](https://www.python.org)
-- 🏫 I'm currently learning : [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [Rust](https://rust-lang.org), [Kotlin](https://kotlinlang.org), and [Go](https://go.dev)
+- 🏫 I'm currently learning : [C++](https://cplusplus.com), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [Rust](https://rust-lang.org), [Kotlin](https://kotlinlang.org), and [Go](https://go.dev)
 - 🎯 Fun fact: I'm working on a Minecraft Plugin called GalaxyCore, it's meant to be an AIO (all-in-one) plugin.
 
 ## Where To Find Me -
