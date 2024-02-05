@@ -22,7 +22,7 @@ I like cookies :3
 
 [Discord](https://discord.gg/pj75Emch8p)
 
-[Twitter](https://twitter.com/GalaxyModzYT)
+[Twitter](https://twitter.com/GalaxyModzDev)
 
 ## Languages -
 
