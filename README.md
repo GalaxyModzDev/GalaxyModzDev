@@ -43,5 +43,5 @@ I like cookies :3
 
 ## Stats -
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GalaxyModzYT)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxymodzyt)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GalaxyModzDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyModzDev)](https://github.com/anuraghazra/github-readme-stats)
