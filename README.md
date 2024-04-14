@@ -20,7 +20,7 @@ I like cookies :3
 
 [GitHub](https://github.com/GalaxyModzYT)
 
-[Discord](https://discord.gg/pj75Emch8p)
+[Discord](https://discord.gg/R6rXdgqtK3)
 
 [Twitter](https://twitter.com/GalaxyModzDev)
 
