@@ -13,7 +13,7 @@ I like cookies :3
 [![My Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/galaxymodz)
 
 
-- 🏫 I'm currently learning : [C++](https://cplusplus.com), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), and [Rust](https://rust-lang.org)
+- 🏫 I'm currently learning : [C++](https://cplusplus.com), [Lua](https://www.lua.org), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - 🎯 Fun fact: I'm working on a Minecraft Plugin called GalaxyCore, it's meant to be an AIO (all-in-one) plugin.
 
 ## Where To Find Me -
