@@ -14,7 +14,7 @@ I like cookies :3
 
 
 - 🏫 I'm currently learning : [C++](https://cplusplus.com), [Lua](https://www.lua.org), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- 🎯 Fun fact: I'm working on a Minecraft Plugin called GalaxyCore, it's meant to be an AIO (all-in-one) plugin.
+- 🎯 Fun fact: I'm working on a Teardown Mod called [TearStats](https://github.com/GalaxyModzDev/TearStats), It's Basically a Mod that Shows more Debug Statistics.
 
 ## Where To Find Me -
 
