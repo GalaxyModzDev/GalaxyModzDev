@@ -4,9 +4,9 @@
 
 ## Info -
 
-Hiii :3, I'm **Galaxy Modz**, a Developer that makes a lot of things.
+Hi :D, I'm **Galaxy Modz**, a Developer that makes a lot of things.
 
-I like cookies :3
+I like cookies
 
 
 
