@@ -47,6 +47,3 @@ I like cookies
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GalaxyModzDev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyModzDev)](https://github.com/anuraghazra/github-readme-stats)
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/irlbunny/irlbunny/blob/main/bubbles.jpg?raw=true');]{x0000}$}
